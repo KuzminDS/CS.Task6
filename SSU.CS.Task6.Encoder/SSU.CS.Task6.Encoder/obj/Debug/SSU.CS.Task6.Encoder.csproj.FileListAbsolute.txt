@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Encoder\SSU.CS.Task6.Encoder\bin\Debug\SSU.CS.Task6.Encoder.exe.config
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Encoder\SSU.CS.Task6.Encoder\bin\Debug\SSU.CS.Task6.Encoder.exe
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Encoder\SSU.CS.Task6.Encoder\bin\Debug\SSU.CS.Task6.Encoder.pdb
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Encoder\SSU.CS.Task6.Encoder\obj\Debug\SSU.CS.Task6.Encoder.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Encoder\SSU.CS.Task6.Encoder\obj\Debug\SSU.CS.Task6.Encoder.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Encoder\SSU.CS.Task6.Encoder\obj\Debug\SSU.CS.Task6.Encoder.exe
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Encoder\SSU.CS.Task6.Encoder\obj\Debug\SSU.CS.Task6.Encoder.pdb

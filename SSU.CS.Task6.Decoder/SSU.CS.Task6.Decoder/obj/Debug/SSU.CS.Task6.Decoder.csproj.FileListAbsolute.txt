@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Decoder\SSU.CS.Task6.Decoder\bin\Debug\SSU.CS.Task6.Decoder.exe.config
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Decoder\SSU.CS.Task6.Decoder\bin\Debug\SSU.CS.Task6.Decoder.exe
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Decoder\SSU.CS.Task6.Decoder\bin\Debug\SSU.CS.Task6.Decoder.pdb
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Decoder\SSU.CS.Task6.Decoder\obj\Debug\SSU.CS.Task6.Decoder.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Decoder\SSU.CS.Task6.Decoder\obj\Debug\SSU.CS.Task6.Decoder.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Decoder\SSU.CS.Task6.Decoder\obj\Debug\SSU.CS.Task6.Decoder.exe
+C:\Users\Дмитрий\Desktop\ssu\КБ\Task 6\SSU.CS.Task6.Decoder\SSU.CS.Task6.Decoder\obj\Debug\SSU.CS.Task6.Decoder.pdb
